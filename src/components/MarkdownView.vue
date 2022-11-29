@@ -12,7 +12,7 @@
           style="color: inherit"
           >CC BY-NC-SA 4.0</a
         >
-        2022-PRESENT © Hydration. View
+        2022-PRESENT © lizr. View
         <a target="_blank" :href="props.file" style="color: inherit">
           source
         </a>
