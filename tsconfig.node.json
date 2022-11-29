@@ -1,0 +1,9 @@
+{
+  "compilerOptions": {
+    "composite": true,
+    "module": "ESNext",
+    "moduleResolution": "Node",
+    "allowSyntheticDefaultImports": true
+  },
+  "include": ["vite.config.ts", "scripts/**/*.ts", "scripts/markdown-sw.ts", "scripts/static-markdown.ts"]
+}
