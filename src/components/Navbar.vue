@@ -1,9 +1,9 @@
 <template>
   <div class="nav" draggable="false">
-    <router-link to="/">Blog</router-link>
-    <router-link to="/">Projects</router-link>
+    <router-link to="http://likf.eu.org/">Blog</router-link>
+    <router-link to="http://p.likf.eu.org/">Projects</router-link>
     <router-link to="/">Links</router-link>
-    <router-link to="/">About</router-link>
+    <router-link to="http://a.likf.eu.org">About</router-link>
   </div>
 </template>
 
